@@ -5,7 +5,7 @@ This project enables **automated identification and categorization of cracks** i
 ## 📌 Project Overview
 This project utilizes **YOLOv11** with a **custom multi-task architecture** that performs:
 - **Object Detection:** Identifies and localizes cracks in asphalt.
-- **Classification:** Categorizes detected cracks into different types (e.g., linear cracks, alligator cracks, transverse cracks).
+- **Classification:** Categorizes detected cracks into different types (e.g., linear cracks, alligator cracks, transverse cracks, etc.).
 
 The system is designed for **high-accuracy, real-time detection**, making it useful for **road maintenance automation, transportation engineering, and smart city initiatives**.
 
